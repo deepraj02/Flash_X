@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585542448622",
+    "project_id": "flashx-e63fe",
+    "storage_bucket": "flashx-e63fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585542448622:android:138ec6a884f1b7cd30caff",
+        "android_client_info": {
+          "package_name": "com.deeprajbaidya.flash_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585542448622-dvep2jgesn7c9g1ncmuk6nuhu33ubsdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJntoJAZI7jcPnPHSup6QHhiPZymvjFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585542448622-dvep2jgesn7c9g1ncmuk6nuhu33ubsdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
